@@ -25,4 +25,5 @@ This project involves recreating a web page based on a Figma design.
    - Test and adjust the layout to work across various devices and screen sizes, including desktops, tablets, and mobile phones.
 
 4. **Download and View Assets:**
-   - Ensure that you are downloading and viewing 2 files and images for proper display.
+   - You can access files in public folder name indexPage.html and it is linked with images folder , dashboard.html and output.css so make sure you download that as well
+   - Also some typography and colors I added in tailwind.config.js so download it as well
