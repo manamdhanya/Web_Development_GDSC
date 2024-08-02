@@ -27,4 +27,4 @@ This project involves recreating a web page based on a Figma design.
 4. **Download and View Assets:**
    - You can access files in public folder name indexPage.html and it is linked with images folder , dashboard.html and output.css so make sure you download that as well
    - Also some typography and colors I added in tailwind.config.js so download it as well
-   - better way you clone repositary and view the files
+   - Better way you can clone repositary and view the files
