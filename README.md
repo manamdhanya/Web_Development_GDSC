@@ -1,7 +1,3 @@
-It looks great for a GitHub README file! Here's a slightly refined version with some minor adjustments to improve clarity and formatting:
-
----
-
 # Web Development GDSC
 ## Web Page Recreation
 
