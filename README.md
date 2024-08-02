@@ -1,5 +1,5 @@
 # Web_Development_GDSC
-# Web Page Recreation and Backend Development
+# Web Page Recreation 
 
 This project involves 1 main tasks: recreating a web page based on a Figma design.
 
